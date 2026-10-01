@@ -1,12 +1,12 @@
-# Contributing to Velith
+# Contributing to Publish Books
 
-Thank you for your interest in improving Velith! This guide covers how to contribute effectively.
+Thank you for your interest in improving this repository! This guide covers how to contribute effectively.
 
 ## Quick Links
 
-- [Report a Bug](https://github.com/epicsagas/Velith/issues/new?template=bug_report.md)
-- [Request a Feature](https://github.com/epicsagas/Velith/issues/new?template=feature_request.md)
-- [Open a Discussion](https://github.com/epicsagas/Velith/discussions)
+- [Report a Bug](https://github.com/mwakidenis/Publish-Books/issues/new?template=bug_report.md)
+- [Request a Feature](https://github.com/mwakidenis/Publish-Books/issues/new?template=feature_request.md)
+- [Open a Discussion](https://github.com/mwakidenis/Publish-Books/discussions)
 
 ## How to Contribute
 
